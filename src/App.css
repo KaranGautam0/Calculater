@@ -1,0 +1,38 @@
+
+.main-container {
+  width: 280px;
+  height: 450px;
+  border: 1px solid rgb(174, 166, 166);
+  background-color: rgb(221, 231, 231);
+  margin: 50px auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+input {
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  padding-block: 17px;
+  border-radius: 5px;
+  border: 1px solid rgb(166, 166, 162);
+}
+.btn-all {
+  margin-block: 10px;
+  width: 100%;
+  margin-left: 4px;
+}
+.btn-all > Button {
+  padding: 10px;
+  margin: 5px;
+  width: 75px;
+  border-radius: 5px;
+  border: 1px solid rgb(166, 166, 162);
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+  font-weight: 500;
+  font-size: 18px;
+}
+.btn-all > Button:hover {
+  background-color: rgba(198, 246, 246, 0.896);
+  border: 1px solid rgb(143, 143, 133);
+}
