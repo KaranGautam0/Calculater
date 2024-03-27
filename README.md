@@ -1,4 +1,4 @@
-# Simple Calculater in React.js
+# Simple Calculater
 
 This is simple calculater in React.js for understaing Props and basic hooks.
 
